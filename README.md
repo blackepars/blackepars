@@ -1,8 +1,8 @@
 ### I'm Ramazan GUL
-#### Python Developer
+#### R&D Engineer - Python Developer
 ![I am Python Developer](blackepars_banner.png)
 
-I'm a R&D Engineer and Developing Computer Vision, Artificial Intelligence and Desktop GUI softwares.
+I'm Developing Computer Vision, Artificial Intelligence and Desktop GUI softwares.
 
 ## Skills: 
 - 🐍 Python 
