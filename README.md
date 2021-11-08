@@ -21,4 +21,4 @@ I'm Developing Computer Vision, Artificial Intelligence and Desktop GUI software
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackepars)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blackepars&show_icons=true&count_private=true)  
+![blackepars's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackepars&show_icons=true&count_private=true)  
