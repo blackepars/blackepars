@@ -22,3 +22,4 @@ I'm Developing Computer Vision, Artificial Intelligence and Desktop GUI software
 
 
 ![blackepars's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackepars&show_icons=true&count_private=true)  
+![blackepars's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackepars&show_icons=true&count_private=true)
