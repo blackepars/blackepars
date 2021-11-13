@@ -1,4 +1,4 @@
-![I am Python Developer](blackepars_banner.png)
+![I am Python Developer](BANNER.png)
 
 ### I'm Ramazan GUL
 #### R&D Engineer - Python Developer
