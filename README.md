@@ -1,7 +1,7 @@
 ![I am Python Developer](BANNER.png)
 
 ### I'm Ramazan GUL
-#### R&D Engineer - Python Developer
+#### R&D Software Development Engineer (Python, GUI, Computer Vision, Industrial Integration)
 - 🦾 I’m currently working on Optimak STU - R&D Center 
 
 I'm Developing Computer Vision, Artificial Intelligence and Desktop GUI softwares.
