@@ -4,7 +4,7 @@
 #### R&D Software Development Engineer (Python, GUI, Computer Vision, Industrial Integration)
 - 🦾 I’m currently working on Optimak STU - R&D Center 
 
-I'm Developing Computer Vision, Artificial Intelligence and Desktop GUI softwares.
+I'm Desktop GUI softwares in PyQt, Computer Vision Applications in OpenCV and Tensorflow.
 # 
 
 ## Skills: 
